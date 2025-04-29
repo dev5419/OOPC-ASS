@@ -61,7 +61,7 @@ ostream& operator<<(ostream& out, const Complex &c) {
 }
 
 int main() {
-    Complex c1, c2, sum, diff, prod, div;
+    Complex c1, c2, sum, diff, prod;
 
     cout << "Enter first complex number:\n";
     cin >> c1;
