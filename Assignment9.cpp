@@ -1,6 +1,6 @@
 /*
 Assignment 9
-Write a program to overload binary operators (<<, >>, +, -, *, /) for accepting and displaying
+Write a program to overload binary operators (<<, >>, +, -, *) for accepting and displaying
 Name - Dev Sarode
 Division - 12
 Roll no - 11260
